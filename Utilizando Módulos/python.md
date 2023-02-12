@@ -1,4 +1,4 @@
-Utilizando Módulos é uma funcionalidade do python que é a importação de módulos e bibliotecas.
+funcionalidade do python que é a importação de módulos e bibliotecas.
 
 para fazer importações de bibliotecas utilizamos comando 'import <nome da biblioteca>'
 
