@@ -13,6 +13,9 @@ print(f'a soma vale {soma}') # na verdade os valores são concatenados pois são
 # escrevemos assim...
 
 print(f'a soma {n1} + {n2} é: {soma}')
+
+# podemos também verificar se foi atribuido algo para uma variável
+
 valor = bool(input('Digite um valor: '))
 print(valor)
 # o bool ira verificar se a variável tem um dado inserido
