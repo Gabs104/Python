@@ -12,7 +12,7 @@ result = num # é o resultado final de toda multiplicação
 for i in range(1,num): # i é o nosso "-1".
     print(f'{fator} ',end='') # sera printado o primeiro valor.
     fator = num-i # fator = n - i
-    result = result * fator # n*fator
+    result = result * fator # para sempre multiplicar o resultado.
     if i < num-1: # aqui é para ser printado a quantidade certa de "*"
         print(end='* ')
 print(f'\no resultado foi: {result}')
