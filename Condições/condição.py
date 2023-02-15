@@ -1,0 +1,5 @@
+num = int(input('Digite um número:> '))
+if num%2 == 0: # se a divisão por 2 tiver o resto da divisão igual a 0 então: (Bloco Verdadeiro)
+    print('Esse número é par!')
+else: # senão execute isso: (Bloco Falso)
+    print('Esse número é ímpar!.')
