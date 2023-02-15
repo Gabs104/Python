@@ -1,7 +1,7 @@
 # estudando análise combinatória e este foi o primeiro conteúdo abordado, "Fatorial"
 # Fatorial é usado para indicar o produto entre n números naturais.
 # "n!": indicamos com "n" que é qualquer número pertencente ao conjunto dos números naturais (ex: 1,2,3,4...).
-# e o "!" é para indicar que é fatorial, é acrescido de -1 e assim sucessivamente(-1,-2,-3,-4...).
+# e o "!" é para indicar que é fatorial, que é acrescido de -1 e assim sucessivamente(-1,-2,-3,-4...).
 # ex: 5! > 5*4*3*2*1 (o 1 não é necessário ja que qualquer coisa multiplicada por 1 é ela mesma).
 # 1° - temos a noção de que: n! --> n*(n-1)! --> n*(n-1)*(n-2)!
 # 2° - o valor de n deve ser constante.
